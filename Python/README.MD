@@ -13,3 +13,7 @@
 ## Courses
 
 - [Pluralsight - Python Fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
+
+## Practice Puzzles
+
+- [Coding Bat](http://codingbat.com/)

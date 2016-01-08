@@ -8,6 +8,7 @@ Resources I've used to learn new technologies
 - [Powershell](Powershell)
 - [Python](Python)
 - [Javascript](Javascript)
+- [F#](FSharp)
 
 
 ## Tools
@@ -18,3 +19,4 @@ Resources I've used to learn new technologies
 
 - [General Development](General)
 - [Testing](Testing)
+- [Agile](Agile)
