@@ -1,1 +1,1 @@
-# Learning Resources - F#
+# Learning Resources - `F#`

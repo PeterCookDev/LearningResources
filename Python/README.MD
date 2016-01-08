@@ -8,7 +8,7 @@
 
 ## Online Training
 
-- [CodeAcademy - Python](https://www.codecademy.com/learn/python)
+- [Codecademy - Python](https://www.codecademy.com/learn/python)
 
 ## Courses
 
