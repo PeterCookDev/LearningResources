@@ -9,6 +9,7 @@ Resources I've used to learn new technologies
 - [Python](Python)
 - [Javascript](Javascript)
 - [F#](FSharp)
+- [SQL](SQL)
 
 
 ## Tools

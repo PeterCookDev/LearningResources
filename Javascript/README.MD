@@ -2,7 +2,7 @@
 
 ## Online Training
 
-- [CodeAcademy - Javascript](https://www.codecademy.com/en/tracks/javascript)
+- [Codecademy - JavaScript](https://www.codecademy.com/en/tracks/javascript)
 
 ## Courses
 
