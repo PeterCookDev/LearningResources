@@ -3,7 +3,7 @@
 ## Books
 
 - [Think Python](http://www.greenteapress.com/thinkpython)
-- [Automate the Boring Stuff With Stuff](https://automatetheboringstuff.com/)
+- [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/)
 - [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393)
 
 ## Online Training
